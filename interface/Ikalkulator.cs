@@ -1,4 +1,4 @@
-public interface Ikakulator
+public interface Ikalkulator
 {
     /// <summary>
     /// legger sammen input 1 og 2
